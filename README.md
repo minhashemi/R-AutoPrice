@@ -4,6 +4,7 @@ This repository contains a project focused on regression analysis, covering vari
 
 You may find a full script by script documentation in `output.pdf` as well as `main.Rmd` files in the repository.
 
+This project was done under supervision of Prof. Javad B. Ebrahimi at Sharif University of Technology by Amin Hashemi.
 ## Project Objectives
 
 The primary objectives of this project are as follows:
