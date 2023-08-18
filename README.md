@@ -38,12 +38,6 @@ This voyage is fueled by a series of impactful objectives:
    - The symphony of ANOVA and f-statistics: Handpick the top 10 features, orchestrating a harmonious ensemble of predictive power.
    - Synergy under the microscope: Unlock 10 pairs of variables, amplifying the intrigue and potential of your feature set.
 
-## ✨ Codes of Conduct
-
-1. **Seamless Communication**: Engage with your fellow explorers through the Telegram group or Koofa's Q&A section – the conduit for interactions. Alas, direct answers shall remain elusive.
-2. **Collaborative Spirits**: Collaboration is the symphony of progress, yet guard your code diligently, resisting the urge to bestow it upon others.
-3. **The Elixir of Insight**: Regardless of the eventual destination, it's the voyage of analysis and rationale that claims the true laurels.
-
 ## 📚 Language and Libraries
 
 - Enchanting with R: This project is a grand affair with the R programming language.
