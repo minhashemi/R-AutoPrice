@@ -58,7 +58,7 @@ The project is divided into several sections, each addressing a specific aspect 
 
 Please follow the instructions in each section carefully and document your findings, analyses, and interpretations thoroughly.
 
-For the dataset and further details, refer to the [data](data/) directory.
+For the dataset and further details, refer to the [data](CarPrice_Assignment.csv) directory.
 
 For implementation and analysis, refer to the corresponding sections in the provided code files.
 
