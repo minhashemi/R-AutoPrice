@@ -1,4 +1,4 @@
-# 📊 Regression Analysis Project in R
+# 📊 R-AutoPrice: Predicting Car Price with R
 
 Welcome to the captivating realm of regression analysis! This repository hosts an immersive project that dives deep into various facets of regression techniques, feature selection, and thorough analysis. Get ready to embark on a data-driven journey through a dataset that unveils the secrets of diverse car models and their prices, intricately intertwined with an array of features. Our mission? To immerse you in the art of regression intricacies, analytical methodologies, feature curation, and hands-on implementation using the beloved R programming language.
 
